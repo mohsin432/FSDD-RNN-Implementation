@@ -1,9 +1,8 @@
 # FSDD-RNN-Implementation
 
-
 Usage python main.py [TaskA | TaskB | TaskC]
 
-
+<pre>
 Folder Strtucture: 
 
 project folder/  
@@ -13,7 +12,7 @@ project folder/
 ├── train.py # train model script    
 ├── test.py # test model script    
 ├── dataprocessing/ # Dataset storage    
- <pre> ├── DataDownloadandSplit.py # Data download and split into train test and validate parts <pre>     
+ ├── DataDownloadandSplit.py # Data download and split into train test and validate parts    
   └── SpokenMNISTData.py # Pre-processing of data    
 ├── dataset/ # Data stored after preprocessing and train, test and validate split     
   ├── X_train.npy # Training features  
@@ -31,3 +30,4 @@ project folder/
   ├── DisplayWeights.py # check model weights  
   ├── Evaluate.py # run inference   
   └── MemoryCalc.py # calculate model memory consumption  
+</pre>
