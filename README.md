@@ -2,7 +2,7 @@
 
 Usage python main.py [TaskA | TaskB | TaskC]
 
-[Dataset Download]([https://github.com/vuejs/vue](https://github.com/Jakobovski/free-spoken-digit-dataset.git))
+[Dataset Download](https://github.com/Jakobovski/free-spoken-digit-dataset.git)
 
 
 <pre>
