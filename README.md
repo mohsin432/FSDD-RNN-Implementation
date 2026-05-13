@@ -1,6 +1,9 @@
-# FSDD-RNN-Implementation
+# Free Spoken Digit Dataset (FSDD)-RNN-Implementation
 
 Usage python main.py [TaskA | TaskB | TaskC]
+
+[Dataset Download]([https://github.com/vuejs/vue](https://github.com/Jakobovski/free-spoken-digit-dataset.git))
+
 
 <pre>
 Folder Strtucture: 
