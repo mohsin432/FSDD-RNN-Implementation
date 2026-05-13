@@ -6,16 +6,16 @@ Usage python main.py [TaskA | TaskB | TaskC]
 
 Folder Strtucture: 
 
-project folder/
-├── README.md # Project documentation 
-├── requirements.txt # Dependencies of the project 
-├── main.py # Python Main excutable  
-├── train.py # train model script  
-├── test.py # test model script  
-├── dataprocessing/ # Dataset storage
-  ├── DataDownloadandSplit.py # Data download and split into train test and validate parts
-  └── SpokenMNISTData.py # Pre-processing of data
-├── dataset/ # Data stored after preprocessing and train, test and validate split 
+project folder/  
+├── README.md # Project documentation   
+├── requirements.txt # Dependencies of the project   
+├── main.py # Python Main excutable    
+├── train.py # train model script    
+├── test.py # test model script    
+├── dataprocessing/ # Dataset storage  
+  ├── DataDownloadandSplit.py # Data download and split into train test and validate parts  
+  └── SpokenMNISTData.py # Pre-processing of data  
+├── dataset/ # Data stored after preprocessing and train, test and validate split   
   ├── X_train.npy # Training features
   ├── y_train.npy # Training labels
   ├── X_val.npy # Validation features
