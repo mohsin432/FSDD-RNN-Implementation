@@ -12,7 +12,7 @@ project folder/
 ├── train.py # train model script    
 ├── test.py # test model script    
 ├── dataprocessing/ # Dataset storage    
- ├── DataDownloadandSplit.py # Data download and split into train test and validate parts    
+  ├── DataDownloadandSplit.py # Data download and split into train test and validate parts    
   └── SpokenMNISTData.py # Pre-processing of data    
 ├── dataset/ # Data stored after preprocessing and train, test and validate split     
   ├── X_train.npy # Training features  
